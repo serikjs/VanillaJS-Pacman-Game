@@ -1,0 +1,19 @@
+body {
+	display: flex;
+	flex-direction: column;
+	margin: 0;
+	padding: 15px;
+	overflow: hidden;
+	background-color: #000;
+}
+.score {
+	font-family: sans-serif;
+	color: white;
+	font-weight: 600;
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+.score #scorePoint {
+	margin-left: 10px;
+	font-size: 14px;
+}
